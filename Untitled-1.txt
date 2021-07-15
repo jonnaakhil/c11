@@ -1,0 +1,5 @@
+
+
+
+
+var  red = prompt("Enter the first varible");
